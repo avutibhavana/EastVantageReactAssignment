@@ -4,14 +4,14 @@
   box-sizing: border-box;
 }
 .total{
-  height: 50vh;
+  height: 74vh;
   width: 39vw;
   margin-left: 60vh;
   display: flex;
   flex-direction: column;
   border: 2px solid black;
   align-items: center;
-  margin-top: 20vh;
+  margin-top: 10vh;
   background-color:#E9D5DA;
   border: none;
   border-radius: 32px;
@@ -19,7 +19,7 @@
   -webkit-box-shadow: 10px 10px 5px 0px rgb(139 118 118 / 75%);
 -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
-.fullname,.email{
+.fullname,.email,.gender{
   height: 5vh;
   width: 20vw;
   margin-top: 10vh;
@@ -38,8 +38,8 @@ p{
   font-size: x-large;
 }
 .image{
-  height: 8vh;
-  width: 8vw;
+  height: 10vh;
+  width: 10vw;
   margin-top: 16px;
 }
 
